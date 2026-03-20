@@ -55,9 +55,9 @@ Run all cells from top to bottom.
 | Bias Level | Count | Tests |
 |---|---|---|
 | Large (d ≥ 0.8) | 4 | Boston Naming (1.032), Animal Fluency (0.840), Modified Trails time (-0.821), MMSE (0.815) |
-| Medium (0.5 ≤ d < 0.8) | 5 | — |
-| Small (0.2 ≤ d < 0.5) | 6 | — |
-| Fair (d < 0.2) | 7 | — |
+| Medium (0.5 ≤ d < 0.8) | 5 | Digit Span Backward (0.715), Digit Span Forward (0.708), Stroop Color Naming (0.640), Memory Z-Score (0.584), Design Fluency (0.578) |
+| Small (0.2 ≤ d < 0.5) | 6 | Number Location (0.488), WRAT (0.481), Digit Cancellation (0.479), CVLT Free Recall (0.371), Stroop Color (0.307), Rey 10-Min Recall (-0.232) |
+| Fair (d < 0.2) | 7 | Benson Executive Z-Score (0.303\*), GDS (0.168), Modified Trails Correct (-0.122), 10-Word Correct (-0.079), CDR Box (−0.072), FTLD CDR Box (-0.052), Modified Rey Recall (-0.013) |
 
 In all large-bias cases except Modified Trails time, monolingual participants scored higher. For Trails time, bilinguals took significantly longer. This is consistent with processing speed being affected when tested in a non-primary language.
 
