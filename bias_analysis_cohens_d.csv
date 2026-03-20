@@ -1,0 +1,23 @@
+test,n_total,mono_mean,bi_mean,difference,cohens_d,abs_cohens_d,p_value,bias_level
+bnt_tot.bedside,1367,14.43,13.34,1.09,1.032,1.032,0.0,LARGE BIAS
+an_corr.bedside,1431,22.38,17.73,4.64,0.84,0.84,0.0,LARGE BIAS
+mt_time.bedside,1432,30.51,46.05,-15.54,-0.821,0.821,0.0,LARGE BIAS
+mmse_tot.bedside,1356,28.97,27.8,1.17,0.815,0.815,0.0,LARGE BIAS
+digit_bw.bedside,1340,5.39,4.42,0.97,0.715,0.715,0.0,MEDIUM BIAS
+digit_fw.bedside,1271,6.86,5.92,0.94,0.708,0.708,0.0,MEDIUM BIAS
+strp_cn_cor.bedside,1393,83.96,73.68,10.28,0.64,0.64,0.0,MEDIUM BIAS
+memoryzscore.bedside,742,0.69,0.46,0.23,0.584,0.584,0.0009,MEDIUM BIAS
+df_corr.bedside,1416,11.58,9.62,1.95,0.578,0.578,0.0,MEDIUM BIAS
+numb_loc.bedside,1325,8.98,8.34,0.65,0.488,0.488,0.0,SMALL BIAS
+wrat_tot.bedside,547,64.86,62.93,1.92,0.481,0.481,0.0019,SMALL BIAS
+d_corr.bedside,1243,16.04,13.69,2.35,0.479,0.479,0.0001,SMALL BIAS
+cv2lfrc.bedside,1206,11.99,10.81,1.19,0.371,0.371,0.0032,SMALL BIAS
+strp_cor.bedside,1408,50.22,46.19,4.03,0.307,0.307,0.0024,SMALL BIAS
+bsexzscore.bedside,826,0.62,0.49,0.13,0.303,0.303,0.1445,FAIR
+rey10m.bedside,1317,11.6,12.37,-0.77,-0.232,0.232,0.0224,SMALL BIAS
+gds_tot.bedside,1409,3.23,3.89,-0.66,-0.168,0.168,0.0902,FAIR
+mt_corr.bedside,1436,13.75,13.95,-0.2,-0.122,0.122,0.2381,FAIR
+corr10.bedside,304,7.04,7.23,-0.2,-0.079,0.079,0.6205,FAIR
+cdr_box.cdr,1575,0.18,0.23,-0.05,-0.072,0.072,0.4029,FAIR
+ftld_cdr_box.cdr,1139,0.25,0.29,-0.05,-0.052,0.052,0.6187,FAIR
+mod_rey.bedside,1315,15.42,15.43,-0.01,-0.013,0.013,0.894,FAIR

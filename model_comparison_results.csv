@@ -1,0 +1,4 @@
+model,cv_auc,test_auc,diff
+Logistic Regression,0.716,0.772,0.055
+Random Forest,0.8,0.865,0.065
+XGBoost,0.821,0.856,0.035
